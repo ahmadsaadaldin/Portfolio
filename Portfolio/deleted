@@ -1,0 +1,35 @@
+<div class="contact-info">
+            <div class="contact-info-item">
+                <div class="info-icon">
+                    <img src="/maps-flags_447031.png" alt="location">
+                </div>
+                <p>Amman, Jordan</p>
+            </div>
+            <div class="contact-info-item">
+                <div class="info-icon">
+                    <img src="/phone-call_597177.png" alt="phone">
+                </div>
+                <p><a href="tel:0795820135">0795820135</a></p>
+            </div>
+            <div class="contact-info-item">
+                <div class="info-icon">
+                    <img src="email_2099199.png" alt="email">
+                </div>
+                <p><a href="mailto:ahmadsaadaldinn@gmail.com">ahmadsaadaldinn@gmail.com</a></p>
+            </div>
+        </div>
+        <div class="social-wrapper">
+            <h2>Socials</h2>
+            <div class="social-items">
+                <div class="social-item">
+                    <a href="#">
+                        <img src="/linkedin_3536569.png" alt="linkedin">
+                    </a>
+                </div>
+                <div class="social-item">
+                    <a href="#">
+                        <img src="/github_3291695.png" alt="github">
+                    </a>
+                </div>
+            </div>
+        </div>

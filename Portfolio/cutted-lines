@@ -1,0 +1,83 @@
+
+.proj-3{
+    grid-area: 2/3/span 3/ span 1;
+    background-color: black;
+    margin-top: 10%;
+    border-radius: 30px;
+    border: white solid 1px;
+}
+.proj-4{
+    grid-area: 2/4/span 3/ span 1;
+    background-color: #FF4900;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+.proj-5{
+    grid-area: 2/5/span 3/ span 1;
+    background-color: black;
+    margin-top: 10%;
+    border-radius: 30px;
+    border: white solid 1px;
+}
+.proj-6{
+    grid-area: 2/6/span 3/ span 1;
+    background-color: #FF4900;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+
+
+<!-- Project 2 -->
+<div class="proj-2">
+    <img src="solidity.png" alt="" width="60%" height="20%" style="margin-top: 1%; margin-left: 20%;">
+    <p style="font-size: 15px;text-align: center;color: #000;  margin-top: 3%;">
+        developed a blockchain-based
+        prototype for certificate verification, ensuring secure and reliable processes through decentralization
+        and immutability. Collaborated with academic advisors and peers to
+        refine project methodology and presentation, emphasizing the system's certificate security
+    </p>
+</div>
+<!-- Project 3 -->
+<div class="proj-3">
+    <img src="PDF.png" alt="" width="30%" height="15%" style="margin-top: 5%; margin-left: 35%;">
+    <p style="font-size: 14px;text-align: center; margin-top: 10%;">
+        A dynamic Q&A chatbot tailored 
+        to interpret and respond to inquiries about PDF documents: powered by advanced natural language 
+        processing, it swiftly extracts key information from any- sized PDF files to deliver precise answers,
+        revolutionizing information retrieval processes with efficiency and accuracy.
+    </p>
+</div>
+<!-- Project 4 -->
+<div class="proj-4">
+    <img src="GoDaddy-Black.png" alt="" width="100%" height="20%" style="margin-top: 5%; margin-left: 2%;">
+    <p style="font-size: 15px;text-align: center;color: #000; ">
+        Created Sundos.net on GoDaddy's platform, showcasing a fusion of design and functionality. 
+        The site offers a curated display of my creative endeavors, from blogs to photography portfolios.
+        It underscores my dedication to presenting work with both professionalism and style.
+    </p>
+</div>
+<!-- Project 5 -->
+<div class="proj-5">
+    <img src="ChatGPT_logo.svg.png" alt="" width="30%" height="15%" style="margin-top: 5%; margin-left: 35%;">
+    <p style="font-size: 15px;text-align: center; margin-top: 10%;">
+        Developed a sophisticated chat bot leveraging the ChatGPT-4 API, designed specifically
+        for translating various languages seamlessly. My expertise lies in creating efficient and accurate translation
+        solutions, ensuring clear communication across diverse linguistic landscapes.
+    </p>
+</div>
+<!-- Project 6 -->
+<div class="proj-6">
+    <img src="Qt_logo_2016.svg.png  " alt="" width="30%" height="15%" style="margin-top: 5%; margin-left: 35%;">
+    <p style="font-size: 15px;text-align: center; margin-top: 10%;color: #000;">
+        Developed a fully functional desktop app for item authenticity using Qt
+        Designer and PySide6, creating the entire frontend. Integrated camera access through 
+        a Python library and connected screen capture and screen delete functions to a pedal, 
+        ensuring a seamless user experience.
+    </p>
+</div>
+</div>
+</section>
+<!-- Education -->
+<section class="fwh-slide" id="Education">
+<div style="display: flex; height: 20%; background-color: aliceblue; width: 100%; margin-top: 0; padding-top: 0;" ></div>
